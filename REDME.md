@@ -11,7 +11,7 @@
 ### 命名空间
 
 ```c#
-using TapTap.Dlc;
+using TapTap.License;
 ```
 
 ### 付费认证
