@@ -1,0 +1,11 @@
+# ChangeLog
+
+## v2.1.0
+
+### Feature
+
+* 新增 DLC 购买认证服务
+
+### Dependencies
+
+* TapTap.Common v2.1.0
