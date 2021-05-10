@@ -2,7 +2,7 @@
 
 ## 使用前提
 
-使用TapFriends的前提是必须添加以下依赖库:
+使用TapTap.License的前提是必须添加以下依赖库:
 
 * [TapTap.Common](https://github.com/TapTap/TapCommon-Unity.git)
 
