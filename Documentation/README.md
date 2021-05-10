@@ -40,14 +40,14 @@ TapLicense.Check();
 #### 1.DLC 回调设置
 
 ```c#
-public interface ITapDlcCallback
+public interface ITapDLCCallback
 {
      void OnQueryCallBack(int code, Dictionary<string, object> queryList);
     
      void OnOrderCallBack(string sku, int status);
 }
 
-TapLicense.SetDlcCallback(ITapDlcCallback callback);
+TapLicense.SetDLCCallback(ITapDLCCallback callback);
 ```
 
 #### 2. DLC 查询
@@ -63,7 +63,7 @@ TapLicense.QueryDLC(string[] appId);
 当 DLC 查询过且未购买时
 
 ```c#
-TapLicense.PurchaseDlc(string appId);
+TapLicense.PurchaseDLC(string appId);
 ```
 
 
