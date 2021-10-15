@@ -1,5 +1,17 @@
 # ChangeLog
 
+## 3.3.0
+
+### Dependencies
+
+- TapTap.Common v3.3.0
+
+## 3.2.0
+
+### Dependencies
+
+- TapTap.Common v3.2.0
+
 ## 3.1.0
 
 ### Dependencies
