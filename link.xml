@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="TapTap.License.Runtime" preserve="all" />
+  <assembly fullname="TapTap.License.Mobile.Runtime" preserve="all" />
+</linker>
